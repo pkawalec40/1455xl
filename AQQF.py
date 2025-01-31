@@ -1,3 +1,5 @@
 print ("hello")
 print ("hello Prezi")
-print ("hello Prexsxsi")
+print ("hello Karolina")
+print ("hello Marcin")
+print ("hello Anulka")
