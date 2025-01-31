@@ -1,6 +1,6 @@
 print ("hello")
 print ("hello Prezi")
-print ("hello Karolina")
+print ("hello Potężna Karolina")
 print ("hello Marcin")
 print ("hello Anulka")
 print ("hello Słodki Jaro")
